@@ -1,6 +1,6 @@
 // Public Firebase web configuration. Never put passwords or service account keys here.
 export const firebaseConfig = {
-  apiKey: "AIzaSyABBGL-Mf200oKF3XQ04ZWI5qCNJv2n0NY",
+  apiKey: "AIzaSyABBGL-Mf2O0oKF3XQ04ZWI5qCNJv2n0NY",
   authDomain: "our-home-d55b1.firebaseapp.com",
   projectId: "our-home-d55b1",
   storageBucket: "our-home-d55b1.firebasestorage.app",
